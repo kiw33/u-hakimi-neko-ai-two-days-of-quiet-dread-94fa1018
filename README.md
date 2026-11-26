@@ -1,5 +1,11 @@
 # Two Days of Quiet Dread
 
+[![make.fun](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018.svg)](https://make.fun/competitions/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+[![rank](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/kiw33/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/rank.svg)](https://make.fun/competitions/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+[![reward](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/kiw33/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/reward.svg)](https://make.fun/competitions/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+
+[Bounty page](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+
 make.fun entry for competition
 `u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018`
 ($2, entries close 2026-11-26 04:45 WIB).
